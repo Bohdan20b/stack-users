@@ -33,4 +33,4 @@ user name, location, answer count, question count, top tags, links to profile an
 To start the program immediately, you can download [build](https://github.com/pavlogook/stackoverflow-users-reader/releases/tag/build) and execute the last command
 
 ## ✨ Screenshot
-![Terminal screenshot](images/Screenshot 2023-04-26 at 17.04.06.png)
+![Screen](images/screenshot.png)
