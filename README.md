@@ -30,7 +30,6 @@ user name, location, answer count, question count, top tags, links to profile an
 3. Change folder to `build/libs`
 4. Run `java -jar file-name.jar` where `file-name` is name of executed file
 
-To start the program immediately, you can download [build](https://github.com/pavlogook/stackoverflow-users-reader/releases/tag/build) and execute the last command
 
 ## ✨ Screenshot
 ![Screen](images/screenshot.png)
